@@ -1,0 +1,23 @@
+# --- Security & Secrets ---
+.env
+keys.txt
+secrets.json
+
+# --- Python Junk ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+# --- Large AI Files (Optional) ---
+*.h5
+*.pkl
+*.model
