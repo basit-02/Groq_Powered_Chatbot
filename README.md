@@ -3,7 +3,7 @@ Groq-Powered AI Assistant
 
 A high-performance, real-time chatbot built with **Python**, **Streamlit**, and the **Groq LPU™ Inference Engine**. This project demonstrates the integration of state-of-the-art Large Language Models (LLMs) like Llama 3 into a responsive, user-friendly web interface.
 
-[![Hugging Face Spaces] (https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)]
+[![Hugging Face Spaces]  (https://huggingface.co/spaces/basit02-memon/Groq-Powered_Assistant) ]
 
 ---
 
