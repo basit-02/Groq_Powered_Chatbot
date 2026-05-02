@@ -1,15 +1,4 @@
 ```
-
-Security Note
-This project uses environment variables to manage sensitive API keys. **Never** commit your `.env` file or hardcode your API keys directly into `app.py`.
-
-Author
-**Muhammad Basit**
-*   BS Artificial Intelligence Student at Dawood University of Engineering and Technology.
-*   [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](https://github.com/basit02-memon)
-
----
-
 Groq-Powered AI Assistant
 
 A high-performance, real-time chatbot built with **Python**, **Streamlit**, and the **Groq LPU™ Inference Engine**. This project demonstrates the integration of state-of-the-art Large Language Models (LLMs) like Llama 3 into a responsive, user-friendly web interface.
@@ -34,7 +23,7 @@ A high-performance, real-time chatbot built with **Python**, **Streamlit**, and 
 ### Prerequisites
 - Python 3.8+
 - A Groq API Key (Get one at [console.groq.com](https://console.groq.com/))
-
+```
 ### Installation
 1. **Clone the repository:**
    ```bash
